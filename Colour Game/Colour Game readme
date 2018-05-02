@@ -1,0 +1,3 @@
+HTML, CSS and JavaScript files for Colour guessing game
+
+Randomly selects 6 colours and gives one of them in RGB, user then has to guess which matches the given
